@@ -1,0 +1,16 @@
+* {
+    background-color: rgb(218, 211, 208);
+}
+
+div {
+    text-decoration: underline;
+    font-family:serif, helvetica;
+    color: black;
+    font-size: 90px;
+    text-align: center;
+}
+
+p {
+    color: red;
+    font-size: 70px;
+}
